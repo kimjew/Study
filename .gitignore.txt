@@ -1,0 +1,35 @@
+# Visual Studio 관련 폴더
+.vs/
+*.user
+*.suo
+
+# 빌드 결과물
+bin/
+obj/
+
+# NuGet 패키지
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# 임시 파일
+*.log
+*.tmp
+
+# 환경 설정
+*.dbmdl
+*.bak
+*.cache
+
+# 운영체제 관련
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 기타 IDE 관련
+_ReSharper*/
+*.DotSettings.user
+.idea/
+.vscode/
